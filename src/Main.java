@@ -56,6 +56,7 @@ public class Main {
         Hyundai.colour = "Оранжевый";
         Hyundai.yearOfProduction = 2016;
         Hyundai.country = "Южная Корея";
+
         System.out.println("Автомобиль марка "+Hyundai.brand+ " модель "+Hyundai.model+
                 " объем двигателя в литрах "+Hyundai.engineCapacity+
                 " цвет "+Hyundai.colour+" год производства "+Hyundai.yearOfProduction+
